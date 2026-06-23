@@ -1,4 +1,4 @@
-# 🎓 Student Event Management API
+# 🎓 Student Event Management APIs
 
 A complete backend RESTful API for managing student events, registrations, and feedback — built with **ASP.NET Core 10** and **Entity Framework Core 10**.
 
