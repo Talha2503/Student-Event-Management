@@ -1,5 +1,4 @@
 @StudentEventManagement_HostAddress = http://localhost:5126
-
 GET {{StudentEventManagement_HostAddress}}/weatherforecast/
 Accept: application/json
 
