@@ -4,7 +4,7 @@ A complete backend RESTful API for managing student events, registrations, and f
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 | Technology | Details |
 |-----------|---------|
